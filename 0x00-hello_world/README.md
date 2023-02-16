@@ -1,1 +1,1 @@
-Concepts in C language
+simple and a bit advanced c programs
