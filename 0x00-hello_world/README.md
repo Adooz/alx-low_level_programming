@@ -1,1 +1,1 @@
-simple and a bit advanced c programs
+task 7 fix
