@@ -4,6 +4,11 @@
 #include <stdio.h>
 #include <stdarg.h>
 
+/**
+ * struct print_format - print type with corresponding print function
+ * @symbol: print type
+ * @print: print function
+ */
 typedef struct print_format
 {
 	char symbol;
